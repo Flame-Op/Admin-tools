@@ -25,6 +25,3 @@ dependencies {
     'oxmysql'
 }
 
-escrow_ignore {
-    'config.lua'
-}
